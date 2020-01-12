@@ -1,0 +1,13 @@
+---
+title: 'Trying this out'
+author: 'Alejandra Gerosa'
+date: '2020-01-11'
+slug: trying-this-out
+tags:
+  - R
+---
+
+With a little bit of code too
+```{r}
+2 + 2 
+```

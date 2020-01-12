@@ -1,0 +1,18 @@
+---
+title: Trying something out
+author: Alejandra Gerosa
+date: '2020-01-11'
+slug: trying-something-out
+categories: []
+tags:
+  - R
+  - R Markdown
+---
+
+Writing something
+With some code too
+
+```{r}
+2+2
+```
+

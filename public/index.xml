@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing site</title>
+    <link>/</link>
+    <description>Recent content on Testing site</description>
+    <generator>Hugo - gohugo.io</generator>
+    <language>en</language>
+    <contact>hello@alegerosa.com</contact>
+    <copyright>&copy; <a href="https://github.com/alegerosa">Alejandra Gerosa</a> 2020</copyright>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <author>Alejandra Gerosa</author>
+      <guid>/post/</guid>
+      <description></description>
+      
+      <content></content>
+      
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <author>Alejandra Gerosa</author>
+      <guid>/about/</guid>
+      <description></description>
+      
+      <content>&lt;p&gt;Writing some words to see what they look like.&lt;/p&gt;
+</content>
+      
+    </item>
+    
+  </channel>
+</rss>
